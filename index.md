@@ -1,6 +1,6 @@
-#**Sarah's GitHub.io Page**
+# **Sarah's GitHub.io Page**
 
-###Welcome!
+### Welcome to my page!
 
 ## Welcome to GitHub Pages
 
